@@ -38,7 +38,7 @@
             <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40">
         </a>
     </span>
-    <span style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+    <span style="border: 1px solid #ccc; padding: 300px; text-align: center;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
         </a>
